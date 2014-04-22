@@ -1,0 +1,13 @@
+{
+	"name": "FingerTT",
+	"description": "2 player ping-pong game",
+	"version": "0.3.0",
+	"private": true,
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "3.x",
+		"socket-io":"*"
+	}
+}
